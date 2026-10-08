@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+expenses.json
+expenses_export.csv
+.venv/
+.DS_Store
